@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.anko:supportV4-base:0.10.8@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3cc907c78ee1df82ad207bf4bfebcc49/jetified-supportV4-base-0.10.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e021c9fdaedee2f33738ed2d0b13eda/jetified-supportV4-base-0.10.8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e021c9fdaedee2f33738ed2d0b13eda/jetified-supportV4-base-0.10.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e021c9fdaedee2f33738ed2d0b13eda/jetified-supportV4-base-0.10.8/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/gradle-6.6-rc-1/caches/transforms-2/files-2.1/cb489041dcb50a40072f05fe7115e33c/jetified-supportV4-base-0.10.8/AndroidManifest.xml" />
+      <root url="file://$APPLICATION_HOME_DIR$/gradle-6.6-rc-1/caches/transforms-2/files-2.1/cb489041dcb50a40072f05fe7115e33c/jetified-supportV4-base-0.10.8/res" />
+      <root url="jar://$APPLICATION_HOME_DIR$/gradle-6.6-rc-1/caches/transforms-2/files-2.1/cb489041dcb50a40072f05fe7115e33c/jetified-supportV4-base-0.10.8/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b58fa84b33e8db3cf9fcb98a73969ed9/jetified-supportV4-base-0.10.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b58fa84b33e8db3cf9fcb98a73969ed9/jetified-supportV4-base-0.10.8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b58fa84b33e8db3cf9fcb98a73969ed9/jetified-supportV4-base-0.10.8/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/supportV4-base/0.10.8/7b9ca94d2ea897c899316add19f15592a53b526e/supportV4-base-0.10.8-sources.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/gradle-6.6-rc-1/caches/modules-2/files-2.1/org.jetbrains.anko/supportV4-base/0.10.8/7b9ca94d2ea897c899316add19f15592a53b526e/supportV4-base-0.10.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

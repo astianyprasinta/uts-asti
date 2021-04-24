@@ -1,0 +1,2 @@
+id/astiany_18090059/catatanpenjualan/BuildConfig.java
+ id.astiany_18090059.catatanpenjualan.BuildConfig
